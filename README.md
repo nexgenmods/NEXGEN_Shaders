@@ -14,9 +14,10 @@ Check out more mode by NEXGEN https://nexgenmods.com
 <i>Compare ReShade Shader Preview 2</i></p>
 
 ## Features
-1. Separation line - customizable color and width<br>
-2. Zoom in while comparing<br>
-3. Offset position of comparison shots
+1. Real-time Comparison
+2. Separation line - customizable color and width<br>
+3. Zoom in while comparing<br>
+4. Offset position of comparison shots
 
 ## Installation
 1. Install ReShade. [Click here](https://github.com/crosire/reshade)
