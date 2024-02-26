@@ -5,6 +5,7 @@ NEXGEN Shaders comprises NEXGEN's contribution of shaders for [ReShade](https://
 ## Compare Shader
 
 **Compare.fx** lets you compare your reshade shader effects side-by-side in real-time
+Check out more mode by NEXGEN https://nexgenmods.com
 
 <p align="center"><img src="https://i.imgur.com/oRs7rdt.jpeg">
 <i>Compare ReShade Shader Preview 1</i></p>
