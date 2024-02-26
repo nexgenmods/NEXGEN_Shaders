@@ -1,7 +1,7 @@
 # NEXGEN Shaders
 
 NEXGEN Shaders comprises NEXGEN's contribution of shaders for [ReShade](https://github.com/crosire/reshade) <br>
-Check out more mode by NEXGEN [https://nexgenmods.com](https://nexgenmods.com){:target="_blank"}
+Check out more mode by NEXGEN https://nexgenmods.com
 
 ## Compare Shader
 
