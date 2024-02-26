@@ -7,7 +7,10 @@ NEXGEN Shaders comprises NEXGEN's contribution of shaders for [ReShade](https://
 **Compare.fx** lets you compare your reshade shader effects side-by-side in real-time
 
 <p align="center"><img src="https://i.imgur.com/oRs7rdt.jpeg">
-<i>Compare ReShade Shader 1</i></p>
+<i>Compare ReShade Shader Preview 1</i></p>
+
+<p align="center"><img src="https://i.imgur.com/EMsDf97.jpeg">
+<i>Compare ReShade Shader Preview 2</i></p>
 
 ## Features
 1. Separation line - customizable color and width<br>
