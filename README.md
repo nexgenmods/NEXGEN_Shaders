@@ -20,7 +20,7 @@ NEXGEN Shaders comprises NEXGEN's contribution of shaders for [ReShade](https://
 3. Extract the downloaded archive .zip file
 4. Copy "reshade-shaders" folder to your main game folder
 5. Start your game, open the ReShade in-game menu using "Home" Key
-6. (Only if required) Add the path to the extracted [Shaders](/Shaders) folder to ReShade menu -> Settings tab -> Effect Search Paths<br>
+6. (Only if required) Add the path to the extracted [Shaders](https://github.com/nexgenmods/NEXGEN_Shaders/tree/main/reshade-shaders/Shaders/NEXGEN_Shaders) folder to ReShade menu -> Settings tab -> Effect Search Paths<br>
 example: D:\YourGame\reshade-shaders\Shaders\NEXGEN_Shaders\
 7. Switch back to the "Home" tab in ReShade menu and check (tick) both the "Compare - Move to Top" and "Compare - Move to Bottom" Shaders
 8. Move your effect shaders to in-between the "Compare - Move to Top" and "Compare - Move to Bottom" Shaders
