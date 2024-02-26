@@ -2,6 +2,7 @@
 //                                                        //
 //                ReShade effect .fx file                 //
 //                 github.com/NexgenMods                  //
+//                 https://nexgenmods.com                 //
 //                                                        //
 //                      Support me:                       //
 //                 patreon.com/nexgenmods                 //
