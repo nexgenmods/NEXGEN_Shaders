@@ -1,5 +1,6 @@
 # NEXGEN Shaders
 
+To Download this, [Click here](https://github.com/nexgenmods/NEXGEN_Shaders/archive/main.zip)<br><br>
 NEXGEN Shaders comprises NEXGEN's contribution of shaders for [ReShade](https://github.com/crosire/reshade) <br>
 Check out more mode by NEXGEN https://nexgenmods.com
 
@@ -24,7 +25,7 @@ Check out more mode by NEXGEN https://nexgenmods.com
 
 ## Installation
 1. Install ReShade. [Click here](https://github.com/crosire/reshade)
-2. Download this repository [Click here](https://github.com/nexgenmods/NEXGEN_Shaders/archive/master.zip)
+2. Download this repository [Click here](https://github.com/nexgenmods/NEXGEN_Shaders/archive/main.zip)
 3. Extract the downloaded archive .zip file
 4. Copy "reshade-shaders" folder to your main game folder
 5. Start your game, open the ReShade in-game menu using "Home" Key
