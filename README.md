@@ -13,6 +13,9 @@ Check out more mode by NEXGEN https://nexgenmods.com
 <p align="center"><img src="https://i.imgur.com/EMsDf97.jpeg">
 <i>Compare ReShade Shader Preview 2</i></p>
 
+<p align="center"><img src="https://i.imgur.com/tA5SPaq.jpg">
+<i>How to sort shaders in your game to make it work perfectly</i></p>
+
 ## Features
 1. Real-time Comparison
 2. Separation line - customizable color and width<br>

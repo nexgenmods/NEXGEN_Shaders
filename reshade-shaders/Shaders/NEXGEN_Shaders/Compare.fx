@@ -1,6 +1,6 @@
 //########################################################//
 //                                                        //
-//                ReShade effect .fx file                 //
+//          Compare ReShade effect .fx file v1.0          //
 //                 github.com/NexgenMods                  //
 //                 https://nexgenmods.com                 //
 //                                                        //
